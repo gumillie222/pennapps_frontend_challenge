@@ -1,0 +1,43 @@
+
+.beleafbackground {
+    background-color: rgb(218, 218, 185);
+}
+
+.header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+    margin-left: 500px;
+    font-size:40px;
+    font-weight: bolder;
+    padding-top:150px;
+}
+
+.paragraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+    margin-left: 500px;
+    display:block;
+    font-size: 16px;
+    margin-top: 20px;
+    width: 38%;
+}
+
+
+.button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    color: white;
+    margin-left: 500px;
+    margin-top: 70px;
+    border-radius: 40%;
+    width: 100px;
+    height: 50px;
+    background-color: darkgreen;
+    padding: 10px;
+    margin-bottom: 100px;
+    font-weight:bold;
+}
+
+.button:hover {
+    background-color: rgb(2, 164, 2);
+}

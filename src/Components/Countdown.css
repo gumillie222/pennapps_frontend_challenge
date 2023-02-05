@@ -1,0 +1,26 @@
+.countdown {
+    padding-top:30px;
+}
+
+.square {
+    display: block;
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:darkgreen;
+    font-size: 40px;
+    font-weight: bolder;
+    text-align:center;
+    padding:20px;
+    position:relative;
+}
+
+.units {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:rgb(49, 154, 49);
+    font-size: 16px;
+    font-weight: bolder;
+    text-align:center;
+    margin-bottom: 10px;
+}
