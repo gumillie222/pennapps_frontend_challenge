@@ -5,7 +5,7 @@
 
 
 
-After downloading the entire folder, create a new folder named "public" in main. Drag the file 'index.html' into the folder. To run, drag the folder into the IDE. Go to terminal (For vscode, it's View - Terminal). In the terminal, enter "npm install -S react-router-dom". Wait for the packages to be installed. Then, enter "npm start" into the terminal. Then a webpage should automatically pop up in your browser. If not, open [http://localhost:3000] in your browser and you should be able to see the page.
+Download the entire folder by clicking the green button "Code" and then "download zip" After downloading the entire folder, create a new folder named "public" in main. Drag the file 'index.html' into the folder. To run, drag the folder into the IDE. Go to terminal (For vscode, it's View - Terminal). In the terminal, enter "npm install -S react-router-dom". Wait for the packages to be installed. Then, enter "npm start" into the terminal. Then a webpage should automatically pop up in your browser. If not, open [http://localhost:3000] in your browser and you should be able to see the page.
 
 ## Overview of the code
 
